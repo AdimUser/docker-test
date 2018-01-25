@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Custom') {
         steps {
-        echo 'Customing.....'
+        echo 'Customing....'
          }
         }
      }
